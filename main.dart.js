@@ -71070,7 +71070,7 @@ return A.aV(r.ce(s),B.r,B.q,B.n,B.w)}},
 $S:22}
 A.Fv.prototype={
 ce(a){var s=null,r=t.p
-return A.a([A.V(s,A.aV(A.a([A.a5("About Freight",s,s,s,A.j(s,s,B.fd,s,s,s,s,s,s,s,s,20,s,B.e,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bg(A.a([new A.aT(B.CM,A.WL(A.e4(20),A.ds("assets/freight_special.png",B.a7,100,140)),s),new A.aT(B.CL,A.V(s,A.dY(s,20,B.a4,!0,s,A.m(A.a([A.m(s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,11,s,s,s,s,!0,s,s,s,s,s,s,s,s),u.by)],t.VO),s,s),B.a2,s,s,1,B.V),B.j,s,s,s,s,120,s,s,s,s,150),s)],r),B.ab,B.q,B.n),new A.aT(B.Cs,A.a5(u.o,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,11,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aT(B.nC,A.a5(u.n,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,11,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aT(B.nC,A.a5(u.J,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,11,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)],r),B.ab,B.q,B.n,B.w),B.j,s,s,s,s,s,s,s,s,s,a)],r)},
+return A.a([A.V(s,A.aV(A.a([A.a5("About Freight",s,s,s,A.j(s,s,B.fd,s,s,s,s,s,s,s,s,20,s,B.e,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bg(A.a([new A.aT(B.CM,A.WL(A.e4(20),A.ds("assets/freight_special.png",B.a7,100,140)),s),new A.aT(B.CL,A.V(s,A.dY(s,20,B.a4,!0,s,A.m(A.a([A.m(s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,11,s,s,s,s,!0,s,s,s,s,s,s,s,s),u.by)],t.VO),s,s),B.a2,s,s,1,B.V),B.j,s,s,s,s,100,s,s,s,s,150),s)],r),B.ab,B.q,B.n),new A.aT(B.Cs,A.a5(u.o,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,11,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aT(B.nC,A.a5(u.n,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,11,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aT(B.nC,A.a5(u.J,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,11,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)],r),B.ab,B.q,B.n,B.w),B.j,s,s,s,s,s,s,s,s,s,a)],r)},
 D(a,b){return new A.f5(new A.V3(this),null)}}
 A.V3.prototype={
 $2(a,b){var s=b.b,r=this.a,q=b.a,p=b.c,o=b.d
@@ -71238,7 +71238,7 @@ return A.aV(r.ce(s),B.r,B.q,B.n,B.w)}},
 $S:22}
 A.IP.prototype={
 ce(a){var s=null,r=t.p
-return A.a([A.V(s,A.aV(A.a([A.a5("Freight's Motto",s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,20,s,B.e,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.aT(B.CK,A.a5(u.cw,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,12,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aT(B.CO,A.a5(u.y,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,12,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.wm("Explore Our Online MarketPlace",s)],r),B.ab,B.q,B.n,B.w),B.j,s,s,s,s,s,s,s,s,s,a),A.a9(s,10,s),A.cy(A.a9(A.aq4(B.nf,A.cd(0,0,1000,0),!0,B.a7,B.ao,new A.B(4294914908),B.he,4,12,10,[A.ds("assets/images/freight01.png",B.a7,s,s),A.ds("assets/images/freight02.png",B.a7,s,s),A.ds("assets/images/freight03.png",B.a7,s,s),A.ds("assets/images/freight04.png",B.a7,s,s),A.ds("assets/images/freight05.png",B.a7,s,s),A.ds("assets/images/freight06.png",B.a7,s,s),A.ds("assets/images/freight07.png",B.a7,s,s),A.ds("assets/images/freight08.png",B.a7,s,s)],5,!0),150,a*0.7),s,s)],r)},
+return A.a([A.V(s,A.aV(A.a([A.a5("Freight's Motto",s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,20,s,B.e,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.aT(B.CK,A.a5(u.cw,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,12,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aT(B.CN,A.a5(u.y,s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,12,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.wm("Explore Our Online MarketPlace",s)],r),B.ab,B.q,B.n,B.w),B.j,s,s,s,s,s,s,s,s,s,a),A.a9(s,10,s),A.cy(A.a9(A.aq4(B.nf,A.cd(0,0,1000,0),!0,B.a7,B.ao,new A.B(4294914908),B.he,4,12,10,[A.ds("assets/images/freight01.png",B.a7,s,s),A.ds("assets/images/freight02.png",B.a7,s,s),A.ds("assets/images/freight03.png",B.a7,s,s),A.ds("assets/images/freight04.png",B.a7,s,s),A.ds("assets/images/freight05.png",B.a7,s,s),A.ds("assets/images/freight06.png",B.a7,s,s),A.ds("assets/images/freight07.png",B.a7,s,s),A.ds("assets/images/freight08.png",B.a7,s,s)],5,!0),150,a*0.7),s,s)],r)},
 D(a,b){return new A.f5(new A.a1U(this),null)}}
 A.a1U.prototype={
 $2(a,b){var s=b.b,r=this.a,q=b.a,p=b.c,o=b.d
@@ -71902,14 +71902,14 @@ s=A.a9(l,10,l)
 k=m.as
 r=!(k===$?m.as=!1:k)?m.iS():l
 r=A.V(l,A.kt(new A.afG(m),r,i),B.j,l,l,l,l,45,l,l,l,l,120)
-q=A.a9(l,l,30)
+q=A.a9(l,l,20)
 k=m.at
 p=!(k===$?m.at=!1:k)?m.iU():l
-p=A.bg(A.a([r,q,A.V(l,A.kt(new A.afH(m),p,i),B.j,l,l,l,l,45,l,l,l,l,120)],h),B.r,B.q,B.n)
+p=A.bg(A.a([r,q,A.V(l,A.kt(new A.afH(m),p,i),B.j,l,l,l,l,45,l,l,l,l,130)],h),B.r,B.q,B.n)
 q=A.a9(l,10,l)
 k=m.ax
 r=!(k===$?m.ax=!1:k)?m.iP():l
-i=A.bg(A.a([A.V(l,A.kt(new A.afI(m),r,i),B.j,l,l,l,l,45,l,l,l,l,120),A.a9(l,l,30),A.V(l,A.bg(A.a([A.dn(A.amL(!1,B.fU,m.f,A.a16(l,new A.hR(B.ei,new A.cU(B.l,1,B.bV)),l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,!1,l,l,A.j(l,l,B.p,l,l,l,l,l,l,l,l,13,l,B.ap,l,l,!0,l,l,l,l,l,l,l,l),"Departure Date",l,l,l,l,l,l,l,l,B.nY,B.l,l,l,l),B.m_,l,l,new A.afJ(m),B.lZ,new A.afK()),1)],h),B.r,B.q,B.n),B.j,l,l,l,l,45,l,l,l,l,120)],h),B.r,B.q,B.n)
+i=A.bg(A.a([A.V(l,A.kt(new A.afI(m),r,i),B.j,l,l,l,l,45,l,l,l,l,130),A.a9(l,l,20),A.V(l,A.bg(A.a([A.dn(A.amL(!1,B.fU,m.f,A.a16(l,new A.hR(B.ei,new A.cU(B.l,1,B.bV)),l,l,l,l,l,l,!0,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,!1,l,l,A.j(l,l,B.p,l,l,l,l,l,l,l,l,12,l,B.ap,l,l,!0,l,l,l,l,l,l,l,l),"Departure Date",l,l,l,l,l,l,l,l,B.nY,B.l,l,l,l),B.m_,l,l,new A.afJ(m),B.lZ,new A.afK()),1)],h),B.r,B.q,B.n),B.j,l,l,l,l,45,l,l,l,l,130)],h),B.r,B.q,B.n)
 r=A.a9(l,30,l)
 o=A.HF(l,l,l,l,l,l,l,l,l,l,l,B.l,l,l,l,l,B.wn,l)
 o=A.Z0(A.a5("SEARCH",l,l,l,A.j(l,l,B.un,l,l,l,l,l,l,l,l,15,l,B.e,l,l,!0,l,l,l,l,l,l,l,l),l,l),new A.afL(m),o)
@@ -71959,7 +71959,7 @@ return A.nH(16,B.nW,!0,A.ao(new A.am(p,new A.afw(q),o),!0,o.i("b8.E")),new A.afx
 $S:30}
 A.afw.prototype={
 $1(a){var s=null,r=a.length===0?this.a.r:a
-return A.nI(A.a5(a,s,s,s,A.j(s,s,B.p,s,s,s,s,s,s,s,s,15,s,B.ap,s,s,!0,s,s,s,s,s,s,s,s),s,s),r,t.N)},
+return A.nI(A.a5(a,s,s,s,A.j(s,s,B.p,s,s,s,s,s,s,s,s,12,s,B.ap,s,s,!0,s,s,s,s,s,s,s,s),s,s),r,t.N)},
 $S:33}
 A.afx.prototype={
 $1(a){var s=this.a
@@ -71981,7 +71981,7 @@ return A.nH(16,B.nV,!0,A.ao(new A.am(p,new A.afu(q),o),!0,o.i("b8.E")),new A.afv
 $S:30}
 A.afu.prototype={
 $1(a){var s=null,r=a.length===0?this.a.w:a
-return A.nI(A.a5(a,s,s,s,A.j(s,s,B.p,s,s,s,s,s,s,s,s,15,s,B.ap,s,s,!0,s,s,s,s,s,s,s,s),s,s),r,t.N)},
+return A.nI(A.a5(a,s,s,s,A.j(s,s,B.p,s,s,s,s,s,s,s,s,12,s,B.ap,s,s,!0,s,s,s,s,s,s,s,s),s,s),r,t.N)},
 $S:33}
 A.afv.prototype={
 $1(a){var s=this.a
@@ -72003,7 +72003,7 @@ return A.nH(16,B.nX,!0,A.ao(new A.am(p,new A.afs(q),o),!0,o.i("b8.E")),new A.aft
 $S:30}
 A.afs.prototype={
 $1(a){var s=null,r=a.length===0?this.a.x:a
-return A.nI(A.a5(a,s,s,s,A.j(s,s,B.p,s,s,s,s,s,s,s,s,15,s,B.ap,s,s,!0,s,s,s,s,s,s,s,s),s,s),r,t.N)},
+return A.nI(A.a5(a,s,s,s,A.j(s,s,B.p,s,s,s,s,s,s,s,s,12,s,B.ap,s,s,!0,s,s,s,s,s,s,s,s),s,s),r,t.N)},
 $S:33}
 A.aft.prototype={
 $1(a){var s=this.a
@@ -72025,7 +72025,7 @@ return A.nH(16,B.nZ,!0,A.ao(new A.am(p,new A.afq(q),o),!0,o.i("b8.E")),new A.afr
 $S:30}
 A.afq.prototype={
 $1(a){var s=null,r=a.length===0?this.a.y:a
-return A.nI(A.a5(a,s,s,s,A.j(s,s,B.p,s,s,s,s,s,s,s,s,15,s,B.ap,s,s,!0,s,s,s,s,s,s,s,s),s,s),r,t.N)},
+return A.nI(A.a5(a,s,s,s,A.j(s,s,B.p,s,s,s,s,s,s,s,s,12,s,B.ap,s,s,!0,s,s,s,s,s,s,s,s),s,s),r,t.N)},
 $S:33}
 A.afr.prototype={
 $1(a){var s=this.a
@@ -72106,8 +72106,8 @@ B.f.F(1/0,p,o)
 return A.aV(r.ce(s),B.r,B.q,B.n,B.w)}},
 $S:22}
 A.r8.prototype={
-D(a7,a8){var s=this,r=null,q="\n",p=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                Airlines Name:  "),o=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,16,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.c),n=A.m(r,r,q),m=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"               From Location:  "),l=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.d),k=A.m(r,r,q),j=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                    To Location:  "),i=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.e),h=A.m(r,r,q),g=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                               Class:  "),f=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,16,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.f),e=A.m(r,r,"\n\n"),d=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"         Days to Departure:  "),c=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.r+" days"),b=A.m(r,r,q),a=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r)," Actual Departure Days:  "),a0=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.Q+" days"),a1=A.m(r,r,q),a2=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                 Charge Rates:  "),a3=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.x+"%"),a4=A.m(r,r,"\n\n"),a5=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"  Actual Departure Date:  "),a6=B.b.I(J.dl(A.wO("dd/MM/yyyy").tJ(s.z,!1,!1)),0,10)
-return A.aq3(A.ar7(!0,A.dY(r,r,B.a4,!0,r,A.m(A.a([p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),a6),A.m(r,r,q),A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                                 Fees:  "),A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"$"+s.w),A.m(r,r,q),A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                   Special Fees:  "),A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"$"+s.y),A.m(r,r,q),A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,14,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"  Special Fees (Yes/No):  "),A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,15,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.as),A.m(r,r,q)],t.Ne),r,q),B.a2,r,r,1,B.V)),B.h5,8,new A.ak(8,12,8,12),B.m)}}
+D(a7,a8){var s=this,r=null,q="\n",p=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"             Airlines Name:  "),o=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.c),n=A.m(r,r,q),m=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"            From Location:  "),l=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.d),k=A.m(r,r,q),j=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                 To Location:  "),i=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.e),h=A.m(r,r,q),g=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                            Class:  "),f=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.f),e=A.m(r,r,"\n\n"),d=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"       Days to Departure:  "),c=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.r+" days"),b=A.m(r,r,q),a=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"Actual Departure Days:  "),a0=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.Q+" days"),a1=A.m(r,r,q),a2=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"               Charge Rates:  "),a3=A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.x+"%"),a4=A.m(r,r,"\n\n"),a5=A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"Actual Departure Date:  "),a6=B.b.I(J.dl(A.wO("dd/MM/yyyy").tJ(s.z,!1,!1)),0,10)
+return A.aq3(A.ar7(!0,A.dY(r,r,B.a4,!0,r,A.m(A.a([p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),a6),A.m(r,r,q),A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                              Fees:  "),A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"$"+s.w),A.m(r,r,q),A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"                Special Fees:  "),A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"$"+s.y),A.m(r,r,q),A.m(r,A.j(r,r,B.ac,r,r,r,r,r,r,r,r,10,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),"Special Fees (Yes/No):  "),A.m(r,A.j(r,r,B.l,r,r,r,r,r,r,r,r,11,r,B.e,r,r,!0,r,r,r,r,r,r,r,r),s.as),A.m(r,r,q)],t.Ne),r,q),B.a2,r,r,1,B.V)),B.h5,8,new A.ak(8,12,8,12),B.m)}}
 A.Ky.prototype={
 D(a,b){return A.iG(null,new A.a4E(b.M(t.w).f.a.a))}}
 A.a4E.prototype={
@@ -72205,7 +72205,7 @@ D(a,b){var s=null,r=this.c
 return new A.ew(A.hs(A.mF(s,new A.G9(r,s),new A.Ga(r,s))),s)}}
 A.G9.prototype={
 D(a,b){var s=null,r=b.M(t.w).f
-return A.cy(A.V(B.a9,A.a5(this.c,s,s,s,A.j(s,s,B.c4,s,s,s,s,s,s,s,s,10,s,B.eF,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.j,s,s,new A.cc(B.l,s,s,A.e4(20),s,s,B.aa),s,40,s,s,s,s,r.a.a*0.75),s,s)}}
+return A.cy(A.V(B.a9,A.a5(this.c,s,s,s,A.j(s,s,B.c4,s,s,s,s,s,s,s,s,12,s,B.eF,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.j,s,s,new A.cc(B.l,s,s,A.e4(20),s,s,B.aa),s,40,s,s,s,s,r.a.a*0.75),s,s)}}
 A.Ga.prototype={
 D(a,b){var s=null
 return A.V(s,A.a5(this.c,s,s,s,A.j(s,s,B.c4,s,s,s,s,s,s,s,s,18,s,B.eF,s,s,!0,s,s,s,s,s,s,s,s),s,s),B.j,s,s,new A.cc(B.l,s,s,A.e4(20),s,s,B.aa),s,s,s,B.CD,s,s,s)}}
@@ -72248,7 +72248,7 @@ kg(a,b,c){var s=null
 return A.a5(c.a,s,s,s,A.j(s,s,s,s,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)}}
 A.Jt.prototype={
 kg(a,b,c){var s=null
-return new A.aT(B.CN,A.bg(A.a([A.am3(c.c,s,15),A.a9(s,s,7),A.a5(c.a,s,s,s,A.j(s,s,s,s,s,s,s,s,s,s,s,9,s,B.e,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.r,B.q,B.n),s)}}
+return new A.aT(B.CO,A.bg(A.a([A.am3(c.c,s,15),A.a9(s,s,7),A.a5(c.a,s,s,s,A.j(s,s,s,s,s,s,s,s,s,s,s,9,s,B.e,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.r,B.q,B.n),s)}}
 A.hB.prototype={
 D(a,b){var s=null,r=t.p
 return A.V(s,A.aV(A.a([A.bg(A.a([A.bg(A.a([new A.ix("Home","/home",B.Da,s),A.a9(A.a5("|",s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,50,s,B.G,s,s,!0,s,s,s,s,s,s,s,s),B.bR,s),s,3),A.a9(s,s,3),new A.ix("About\n   Us","/about",B.D9,s),A.a9(A.a5("|",s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,50,s,B.G,s,s,!0,s,s,s,s,s,s,s,s),B.bR,s),s,3),A.a9(s,s,3),new A.ix("  Our\n Online\nMarket\nPlace","/marketplace",B.D1,s),A.a9(A.a5("|",s,s,s,A.j(s,s,B.l,s,s,s,s,s,s,s,s,50,s,B.G,s,s,!0,s,s,s,s,s,s,s,s),B.bR,s),s,3),A.a9(s,s,3),new A.ix("Contact\n     Us","/contactus",B.Dc,s)],r),B.r,B.q,B.n)],r),B.r,B.dP,B.n)],r),B.r,B.q,B.n,B.w),B.j,B.aR,s,s,s,140,s,s,s,s,300)}}
@@ -76988,8 +76988,8 @@ B.RN=new A.ak(4,4,4,5)
 B.CK=new A.ak(5,12,5,6)
 B.CL=new A.ak(5,20,10,10)
 B.CM=new A.ak(5,20,5,0)
-B.CN=new A.ak(5,5,5,5)
-B.CO=new A.ak(5,6,5,20)
+B.CN=new A.ak(5,3,5,20)
+B.CO=new A.ak(5,5,5,5)
 B.cO=new A.ak(8,0,8,0)
 B.aQ=new A.ak(8,8,8,8)
 B.nH=new A.ak(0.5,1,0.5,1)
